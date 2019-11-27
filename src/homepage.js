@@ -1,5 +1,6 @@
-const content = document.querySelector('#content');
 function homePage() {
+  const content = document.querySelector('#content');
+  const home = document.querySelector('#link-0');
   content.innerHTML = '<h1> Jolly Good Burgers </h1>';
   content.classList.add('heading');
   const p = document.createElement('p');

@@ -1,12 +1,23 @@
 body {
-  background: url('./burger-shake.jpeg');
+  background: url('./restaurant.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  color: black;
 }
 
 .heading {
   text-align: center;
   font-size: 2.5em;
+  color: black;
+}
+
+#navbar {
+  text-align: center;
+  font-size: 30px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: underline;
 }
