@@ -1,0 +1,27 @@
+body {
+  background: url('./burger-last.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.heading {
+  text-align: center;
+  font-size: 2.5em;
+}
+
+#navbar {
+  text-align: center;
+  font-size: 30px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+}
