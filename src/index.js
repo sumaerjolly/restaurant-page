@@ -1,1 +1,4 @@
-console.log('Webpack testing after watch mode and new images?');
+import homePage from './homepage';
+import './style.css';
+
+document.body.appendChild(homePage());
