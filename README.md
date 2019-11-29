@@ -12,7 +12,7 @@ Restaurant Page is a project by me [Sumaer Jolly](https://github.com/sumaerjolly
 
 ## Usage
 
-The live version of the webapp can be found [here]()
+The live version of the webapp can be found [here](https://sumaerjolly.github.io/restaurant-page/)
 
 > Clone the repository to your local machine
 
